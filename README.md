@@ -9,6 +9,7 @@
  2. vi editor.pptx
  3. GCC.pptx
  4. 소켓프로그래밍
+ 5. GNU 디버거
     
 [애플리케이션 인터페이스 구현하기]  
 
