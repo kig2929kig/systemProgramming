@@ -13,5 +13,6 @@
     
 [애플리케이션 인터페이스 구현하기]  
 
-  6. gui programming - snake.pptx
+  6. gui programming - snake.pptx  
+  7. git.pptx
 
